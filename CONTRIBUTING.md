@@ -25,4 +25,4 @@ Don't use any vague marketing language. Optimize word greppability. For example,
 - Job boards should be high quality, without paywalls, requiring login, etc.
 - No agencies please.
 
-Thank you for your suggestions!
+Thank you for your suggestions! 
